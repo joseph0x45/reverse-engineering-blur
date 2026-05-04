@@ -1,0 +1,1014 @@
+=== SERVERS/HOSTS ===
+      <NewRemoteHost></NewRemoteHost>
+.?AVbdGetHostByName@@
+.\bdGetHostByName\bdGetHostByName-win32.cpp
+.\bdGetHostByName\bdGetHostByName.cpp
+.\bdGetHostByName\bdGetHostByNameConfig.cpp
+7IVehicle.UnGhostBackForce
+<NewRemoteHost></NewRemoteHost>
+=Graphics/Textures/Ghost_Mask.dds
+Adding IP %s for Host: %s 
+Amax.ContentServer
+Amax.GameMode.Destruction.SpawningGhostTime
+Amax.Garage.DeghostDuration
+Audio.WaveServer.AllocateStreamProcessResources
+Audio.WaveServer.AudioGraphsAllowDeactivation
+Audio.WaveServer.CreateStreamNodes
+Audio.WaveServer.CreateStreams
+Audio.WaveServer.DoAudioGraphMemMoves
+Audio.WaveServer.ProcessFileStreamRequests
+Audio.WaveServer.RegisterStreamSources
+BIO_get_host_ip
+BIO_gethostbyname
+BLURB_SERVER_MSG
+BloomGhost
+BloomGhostGamma
+CERTSRV_E_SERVER_SUSPENDED
+COMADMIN_E_CAT_SERVERFAULT
+COMADMIN_E_DLLREGISTERSERVER
+COMADMIN_E_NOSERVERSHARE
+CONTENT_SERVER_INFO
+CO_E_BAD_SERVER_NAME
+CO_E_SERVER_EXEC_FAILURE
+CO_E_SERVER_INIT_TIMEOUT
+CO_E_SERVER_NOT_PAUSED
+CO_E_SERVER_PAUSED
+CO_E_SERVER_START_TIMEOUT
+CO_E_SERVER_STOPPING
+CO_E_WRONG_SERVER_IDENTITY
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+Cannot start a host name lookup unless class is in the uninitialized state.
+CheckLanServerNetworkVersion
+Connect canceled to unknown remote host %s. Ignoring.
+Connection #%ld to host %s left intact
+ContentServer.AreScoreboardsConnected
+ContentServer.InjectError
+ContentServer.InjectErrorEnum
+ContentServer.IsContentServerConnected
+ContentServer.IsFacebookConnected
+ContentServer.IsTwitterConnected
+ContentServer.IsVotingServerConnected
+ContentServer.OverideConnections
+ContentServerType
+ContinueCreateOnlineServer
+Could not read error code from authentication server response.
+Could not resolve host: %s
+Could not resolve host: %s; %s
+Couldn't connect to server
+Couldn't find host %s in the _netrc file; using defaults
+Couldn't resolve host '%s'
+Couldn't resolve host name
+CreateLanServer
+CreateOnlineServer
+DNS_ERROR_NEED_WINS_SERVERS
+DNS_ERROR_NO_DNS_SERVERS
+DNS_ERROR_RCODE_SERVER_FAILURE
+DTLS1_SEND_SERVER_CERTIFICATE
+DTLS1_SEND_SERVER_HELLO
+DTLS1_SEND_SERVER_KEY_EXCHANGE
+Duplicate IP %s for Host: %s ignored
+ERROR_DS_CANT_DERIVE_SPN_WITHOUT_SERVER_REF
+ERROR_DS_SERVER_DOWN
+ERROR_EFS_SERVER_NOT_TRUSTED
+ERROR_HOST_DOWN
+ERROR_HOST_NODE_NOT_AVAILABLE
+ERROR_HOST_NODE_NOT_GROUP_OWNER
+ERROR_HOST_NODE_NOT_RESOURCE_OWNER
+ERROR_HOST_UNREACHABLE
+ERROR_INVALID_SERVER_STATE
+ERROR_NODE_CANT_HOST_RESOURCE
+ERROR_NOLOGON_SERVER_TRUST_ACCOUNT
+ERROR_NOT_ENOUGH_SERVER_MEMORY
+ERROR_NOT_SUPPORTED_ON_STANDARD_SERVER
+ERROR_NO_BROWSER_SERVERS_FOUND
+ERROR_NO_LOGON_SERVERS
+ERROR_SERVER_DISABLED
+ERROR_SERVER_HAS_OPEN_HANDLES
+ERROR_SERVER_NOT_DISABLED
+ERROR_SERVER_SHUTDOWN_IN_PROGRESS
+ERROR_WMI_SERVER_UNAVAILABLE
+Empty reply from server
+External IP detected through STUN server does not match the one detected through UPnP. Possible Nested NATs.
+FDE_SERVER_TIME_LEFT
+FDE_SERVER_TIME_LEFT_ONE
+FDE_SERVER_TIME_SENT
+FDE_SERVER_TIME_SENT_RE
+FTP: can't figure out the host in the PASV response
+FTP: weird server reply
+Failed to start host name lookup thread for %s.
+GET_SERVER_FINISHED
+GET_SERVER_HELLO
+GET_SERVER_VERIFY
+GHOSTED
+GameServerTime
+GameServerTimeSystem
+GhostTimeAfterHoG
+GhostTimeAfterSpawnParameters
+GhostTimeAfterWrecked
+GhostWhen
+Ghosting
+Graphics.Render.PostProcess.HDR.Bloom.Ghost.Enable
+Graphics.Render.PostProcess.HDR.Bloom.Ghost.Scale0
+Graphics.Render.PostProcess.HDR.Bloom.Ghost.Scale1
+Graphics.Render.PostProcess.HDR.Bloom.Ghost.Scale2
+Graphics.Render.PostProcess.HDR.Bloom.Ghost.Scale3
+Graphics.SceneGraph.RenderPasses.Ghost
+Graphics/Textures/ghost_mask.dds
+HOST
+HOST: %s
+HOST: 239.255.255.250:1900
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+Host down
+Host name lookup thread cannot be started unless a request is pending.
+Host not found
+Host not found, try again
+Host unreachable
+Host:
+Host: %s
+Host: %s%s%s
+Host: %s%s%s:%d
+HostMigrated
+IsHost
+JoinLanServer
+JoinOnlineServer
+MP_LOBBY_HOST
+ManageGhosts
+MessagesStillOnServer
+Microsoft Server Gated Crypto
+MonitorJoinLanServer
+MonitorJoinOnlineServer
+Multiplayer.IdleTimeout.DisableInactivityGhosting
+Multiplayer.IdleTimeout.ForceIdleGhost
+Multiplayer.IdleTimeout.GhostInactiveTimeLimit
+Multiplayer.LeftRaceGhostTime
+Netscape SSL Server Name
+Netscape SSL server
+Netscape Server Gated Crypto
+No IP found for Host: %s 
+No authentication method was acceptable. (It is quite likely that the SOCKS5 server wanted a username/password, since none was supplied to the server on this connection.)
+NumGhosts
+NumLanServersEnumerated
+PA_REQUEST_GET_ACTIVATION_SERVERS
+PA_REQUEST_SET_ACTIVATION_SERVERS
+POP_CONTENT_SERVER_DATA_INFO
+ProxyServer
+RPC_E_SERVERCALL_REJECTED
+RPC_E_SERVERCALL_RETRYLATER
+RPC_E_SERVERFAULT
+RPC_E_SERVER_CANTMARSHAL_DATA
+RPC_E_SERVER_CANTUNMARSHAL_DATA
+RPC_E_SERVER_DIED
+RPC_E_SERVER_DIED_DNE
+RPC_S_SERVER_TOO_BUSY
+RPC_S_SERVER_UNAVAILABLE
+Re-using existing connection! (#%ld) with host %s
+Received server packet in client code.
+Requested range was not delivered by the server
+Resolving host timed out: %s
+RetrieveFromServer
+SERVER_FINISH
+SERVER_HELLO
+SERVER_VERIFY
+SOCKS5: server resolving disabled for hostnames of length > 255 [actual len=%d]
+SSL Server
+SSL server
+SSL23_GET_SERVER_HELLO
+SSL3_GET_SERVER_CERTIFICATE
+SSL3_GET_SERVER_DONE
+SSL3_GET_SERVER_HELLO
+SSL3_SEND_SERVER_CERTIFICATE
+SSL3_SEND_SERVER_HELLO
+SSL3_SEND_SERVER_KEY_EXCHANGE
+SSL: certificate subject name '%s' does not match target host name '%s'
+SSL_ADD_SERVERHELLO_TLSEXT
+SSL_CHECK_SERVERHELLO_TLSEXT
+SSL_GET_SERVER_SEND_CERT
+SSL_PREPARE_SERVERHELLO_TLSEXT
+Screens\Debug\DebugContentServer.lua
+Screens\Server\Connection.lua
+Server
+Server certificate:
+Server finished
+Server hello
+Server key exchange
+Server returned nothing (no headers, no data)
+Server verify
+StandardGhostParameters
+StartServerTimeStampTask
+TLS Web Server Authentication
+Undocumented SOCKS5 mode attempted to be used by server.
+Unrecoverable error in call to nameserver
+User was rejected by the SOCKS5 server (%d %d).
+Vehicle.BlendToBumperGhostDistance
+Vehicle.BlendToBumperGhostTime
+Vehicle.Components.AIController.OutOfRangeGhostingEnabled
+Vehicle.Components.HandOfGod.DeghostInitialDistCheckSquared
+Vehicle.DefaultGhostAlpha
+Vehicle.Ghost.EndOfRaceClearUpIndex
+Vehicle.Ghost.ForceEndOfRaceClearUp
+Vehicle.Ghost.GraphicalActor.DeGhostedAlpha
+Vehicle.Ghost.GraphicalActor.Ghost
+Vehicle.Ghost.GraphicalActor.GhostedAlpha
+Vehicle.Ghost.GraphicalActor.HideFullyGhostedCar
+Vehicle.Ghost.GraphicalActor.IndexToGhost
+Vehicle.Ghost.GraphicalActor.MoveFullyGhostedCarOutOfAlphaPass
+Vehicle.Ghost.GraphicalActor.TransitionTime
+Vehicle.Ghost.GraphicalActor.UpdateGhostiness
+Vehicle.Ghost.LogicActor.Ghost
+Vehicle.Ghost.LogicActor.GhostTime
+Vehicle.Ghost.LogicActor.GhostedAlpha
+Vehicle.Ghost.LogicActor.IndexToGhost
+Vehicle.Ghost.LogicActor.UpdateGhostiness
+Vehicle.Ghost.SilentRunningDed
+Vehicle.GhostTransitionTime
+Vehicle.GhostedText
+Vehicle.UnGhostForceTimer
+Vehicle.UnGhostPopping
+Vehicle.UnGhostUpForce
+WBEM_E_SERVER_TOO_BUSY
+WSAEHOSTDOWN
+WSAEHOSTUNREACH
+WSAHOST_NOT_FOUND
+WaitingForHost
+bad hostname lookup
+bdGetHostByName::cancelLookup
+bdGetHostByName::getAddressAt
+bdGetHostByName::pump
+bdGetHostByName::quit
+bdGetHostByName::run
+bdGetHostByName::start
+bdGetHostByNameConfig::sanityCheckConfig
+bdMatchMakingInfo::getHostAddrAsCommonAddr
+bdTitleUtilities::getServerTime
+couldn't connect to host
+dfa_add_server
+dfa_get_server_response
+dfa_reset_serverlist
+eJoinErrorHostDiffersOnPeer
+eJoinErrorNoConnectionToHost
+eJoinErrorPlaylistVerHost
+getHostByNameConfig
+gethostbyaddr
+gethostbyname
+gethostbyname addr is not af inet
+gethostbyname(2) failed for %s:%d; %s
+gethostname
+gethostname() failed, continuing without!
+host
+krb5 server bad ticket
+krb5 server init
+krb5 server rd_req (keytab perms?)
+krb5 server tkt expired
+krb5 server tkt not yet valid
+krb5 server tkt skew
+localGhostOpacity
+lock_host
+lock_to_host_car
+m_hostAddrSize != BD_COMMON_ADDR_SERIALIZED_SIZE, 
+no hostname specified
+nsSslServerName
+nssslserver
+party_host
+remoteGhostOpacity
+server
+server error - activation check error
+server error - application not found
+server error - can not update statistics
+server error - error during creating activation
+server error - error during verification
+server error - global verify error
+server error - internal error
+server error - invalid geographical region
+server error - license end date reached
+server error - license expired
+server error - project (CPA) not active
+server error - purchase error
+server error - purchase not found
+server error - registration required
+server error - serial revoked too often
+server error - serial revoked too often within timeframe
+server error - start date not reached
+server error - too many activation on different PC's
+server error - too many activations on same PC
+server error - too many activations within timeframe
+server error - too many total activations
+server error - unknown server error
+server error - wrong/invalid serial
+server finished
+server read error
+server response error
+server response parse error
+server write error
+server write key
+serverAuth
+serverhello tlsext
+set_server_response
+smtphost
+ssl3 ext invalid servername
+ssl3 ext invalid servername type
+ssl_server
+sslserver
+user + domain + host name too big
+
+=== URLS ===
+   for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+   for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ http://crl.verisign.com/pca3.crl0
+"http://crl.verisign.com/tss-ca.crl0
+# http://curl.haxx.se/rfc/cookie_spec.html
+%s http://%s:%d/%s HTTP/1.0
+/http://CSC3-2004-crl.verisign.com/CSC3-2004.crl0D
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+2Terms of use at https://www.verisign.com/rpa (c)041.0,
+3http://CSC3-2004-aia.verisign.com/CSC3-2004-aia.cer0
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+Description [URLBase tag] is improperly formatted. Missing http://
+You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
+http://
+http://%s
+http://ocsp.verisign.com0
+http://ocsp.verisign.com0?
+http://updates.blurgame.com/update_info/update_info.xml
+http://www.SecuROM.com0
+http://www.imagus.com/patches/patch_v%0.1f
+https://www.verisign.com/rpa0
+https://www.verisign.com/rpa01
+no http:// token found in discovery response
+
+=== IPs ===
+  <asmv1:assemblyIdentity name="drm_uninstall.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32"></asmv1:assemblyIdentity>
+127.0.0.1
+2010.05.26.1 
+239.255.255.250:1900
+255.255.255.255
+E0.0.0.0
+HOST: 239.255.255.250:1900
+Microsoft (R) HLSL Shader Compiler 9.27.952.3022
+PherEBZ Ceb i2.0.3.3
+SecuROM Version: 275.34.1219372.43.64.34.23.0 alpha
+
+=== MIDDLEWARE ===
+      <NewPortMappingDescription>DemonwarePortMapping</NewPortMappingDescription>
+./obj/encrypted_drm_unlock_online.cpp
+?Demonware.GameLogging
+?Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Actor_System\source\ActorCreation.cpp
+Activision
+BEAT_BIZARRE
+BeatBizarre
+Bizarre
+C:\sslcerts\DemonwareSSL.pem
+ConnectionStatusIsOnline
+ContinueCreateOnlineServer
+ContinueOnlineSessionEnumeration
+ContinueOnlineSessionEnumerationFromInvitation
+CreateOnlineServer
+ERROR_CLUSTER_NETWORK_ALREADY_ONLINE
+ERROR_GROUP_NOT_ONLINE
+ERROR_QUORUM_RESOURCE_ONLINE_FAILED
+ERROR_RESMON_ONLINE_FAILED
+ERROR_RESOURCE_NOT_ONLINE
+ERROR_RESOURCE_ONLINE
+GetChampionshipStandings( ) - no online game in progress
+GetOnlineLobbyList
+IsEnumeratedOnlineSessionInRace
+IsGameModeOnline
+IsOnlineMode
+JoinOnlineServer
+MonitorJoinOnlineServer
+NumOnlineSessionsEnumerated
+Online
+OnlineConnectionPossible
+OnlineJoinFailedNameAvailable
+OnlineMain
+PA_REQUEST_ACTIVATE_ONLINE
+PA_REQUEST_IS_ONLINE
+PA_REQUEST_REVOKE_ONLINE
+PA_REQUEST_VERIFY_ONLINE
+PRO_FRIENDS_STATUS_ONLINE
+PRO_FRIENDS_STATUS_ONLINE_NOT_THIS
+PadProfileOnline
+PadProfileOnline( padNo ) - incorrect arguments
+ParametersStoredOnline
+PickupParametersStoredOnline
+RP_ONLINE_PLATFORM
+ReadOnlineAccountDetails
+ReadOnlineAccountDetails( id, id ) - incorrect arguments
+SOFTWARE\Activision\Blur
+Screens\Intro\ActivisionSplash.lua
+Screens\Intro\BizarreSplash.lua
+Screens\Multiplayer\MpOnline.lua
+Screens\Photos\MyOnlinePhotos.lua
+SetOnlineRanked
+SetOnlineSessionEnumerationParameters
+StartOnlineSessionEnumeration
+StartOnlineSessionEnumerationFromInvitation
+StoreOnlineAccountDetails
+StoreOnlineAccountDetails( id, id ) - incorrect arguments
+TOTAL_ONLINE_PLAYERS
+Test 1 failed. Not online.
+Ui\movies\BizarreSplash.bik
+VectorNearestPointOnLine
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Amax\Game\./Game\GameActors\AudioActors.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Amax\Game\./Game\GameActors\Components\Creation\AudioComponentsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Amax\Game\./Game\GameActors\Components\Messages\AudioMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Audio\./source\AppInterfaceLayer\XtAudio.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Common\System\source\XML\XmlBlockParser.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Actor_System\source\GameComponent.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Crowd_System\./source\XtCrowd.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Resource_Utils\source\CycleResourceDef.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Resource_Utils\source\GameModel.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Resource_Utils\source\GameTexture.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Resource_Utils\source\ResourceUtils.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Resource_Utils\source\SkeletonResourceDef.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\AnimatedObjectActorsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\AnimationActorsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\ConstraintActorCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\GroupActorsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\MessageActorsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\SplineActorCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorCreation\SystemActorsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorDef\BasePhysicalObjectDef.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorMessages\ConstraintActorMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\ActorMessages\GroupActorMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Creation\AnimatedObjectComponentsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Creation\AnimationControllerCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Creation\LogicComponentsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Creation\MessageComponentsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Creation\MovementComponentsCreate.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\AnimatedObjectMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\ElementManagerMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\LogicMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\MessageComponentMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\MovementMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\Messages\PhysicsMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\Components\SharedComponents.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtActorBase.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtActorCreation.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtActorMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtDialogue.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtExpressionEval.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtLevelAnimation.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtSharedActorMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\GameSys\Shared_Actors\source\XtSharedLevelActorParams.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Graphics\Dynamic\source\generic\XtInterface.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Graphics\Dynamic\source\light\generic\XtInterface.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Graphics\Dynamic\source\tracer\Generic\XtInterface.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Graphics\Render\source\utils\Curve.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Graphics\Vehicle\source\Db\VehicleXt.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Physics\RacingPhysics\source\physics\surfaces.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Physics\RacingPhysics\source\vehicles\car\carsettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\Physics\RacingPhysics\source\vehicles\motorbike\motorbikesettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\BaseUIList.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\BaseUIShape.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\BaseUIVariableSelect.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\ButtonController.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\Buttons.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIAdobeAnimation.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIAdobeBox.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIAdobeTrail.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIBox.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UICamera.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UICredits.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIFriendsList.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIGraph.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIHorizontalMenu.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIItemSpinner.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIKeyboard.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UILegal.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UINodeList.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIParticleEmitter.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIPath.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIProgressBar.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIScrollBar.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UISlider.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIStaticGraphic.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIStaticLetter.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIStaticScene.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIStaticShape.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIStaticText.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UITable.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UITextbox.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIVariableSpinner.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Gadgets\UIVerticalMenu.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\Timeline.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\UILocaliser.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Game\UIXt.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Graphics\Font\Font.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Graphics\Font\FontStyle.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Graphics\Renderer.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Graphics\Simple2d.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\Mercury\Library\UI\./source\ui\Graphics\UISpriteTextureParam.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Racebook\Data\RaceBookData.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIAiHud.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UICheckpoint.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIDamage.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIFanMessage.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIHudDummy.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UILoadoutController.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIMiniMap.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIMinorScoreLog.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIMultiplayerData.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIMultiplayerSpeaking.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIPerks.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIPerks2.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIRaceLine.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIRaceLineSplitscreen.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIRankBar.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIRequirementsMessage.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UIShield.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UITargeting.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Hud\UITeamTugOfWar.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIAmaxGraphic.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIAmaxLight.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIAmaxSlider.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UICarNode.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UICarousel.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UICheckbox.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIChicklets.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIFocalPoint.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UILightPaint.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UILobby.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UILocatorNode.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIPostProcessTexture.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIRacePreview.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIReinforceText.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UISpeakerSetup.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\UIToggle.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\Game\Gadgets\Vinyl\UIColourPicker.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\UiManager.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\UiMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\Library\Ui\UiXtConfig.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./AI\AI_AmaxXt.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\AmaxChaseCamera.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\BoltedCamera.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraDollyZoomSpecialFX.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraKeyFrame.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraNoiseSpecialFX.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraSystem.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\DirectorActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\VehicleFeed.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\GameWorld\EnvironmentSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\AnimatedCamera.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CameraPositionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CameraTargetActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CutSceneMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CutSceneProxyActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CutSceneVehiclePositionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CutSceneVehicleSplineActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\CycleActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\DynamicActorComponents.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\DynamicCameraActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\DynamicLightActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\DynamicObjectActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\DynamicObjectMessages.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\EffectGeneratorActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\FanDemandPositionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\LogicActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\MessageSenderActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\MovementDualSpline.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\PhysicalObjectActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\PhysicsModifierActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\PickupPositionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\ReplayManagerActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\ResourceTypes.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\ShowRoomCamera.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\SpawnerActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\SplitLineActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\StartLineInfoActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\StartPositionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\TVCameraControl.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\TrafficActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\TriggerRegionActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\UICameraController.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\UiLocatorActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\ActorStudioActors\VehicleProxyActor.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\Lua\LuaVariableHelper.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\RaceLogicCore\Database\RLDatabase.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\GameLogic\SinglePlayer\SP_Data.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Game\GameActors\Drivers\XtAnimationTree.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\CarLightSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\LightFlareSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\PostFxLensFlare.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\PostFxMatrix.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\PostFxSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\PostSpecialFX.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\RoadTrackSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\ShadowSettings.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\SplashCameraSpecialFX.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\Graphics\Wind.cpp
+Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\bin\win32\master\Amax.pdb
+\Bizarre Creations\
+\Bizarre Creations\Blur
+\Bizarre Creations\Blur\
+blur-pc-live.auth.mmp3.demonware.net
+blur-pc-live.lsg.mmp3.demonware.net
+colour_online
+colour_online_different_game
+dfa_is_onlinefile
+dfa_is_onlinefileW
+janv@bizarrecreations.com
+online_mode_disabled
+online_playlists
+stun.au.demonware.net
+stun.eu.demonware.net
+stun.jp.demonware.net
+stun.us.demonware.net
+u?Z:\buildagent\workspace\Bizarre\Blur\Release_PC\Game\code\amax\game\./Game\AmaxCam\CameraSpecialFX.cpp
+z:\buildagent\workspace\bizarre\blur\release_pc\game\code\vendor\libtomcrypt\1.10\src\hashes\sha2\sha224.c
+
+=== PORTS ===
+		%ssupported = false;
+	<Value name="Viewports" value="
+	bool supported = true;
+	return supported;
+      <NewExternalPort>%d</NewExternalPort>
+      <NewInternalPort>%d</NewInternalPort>
+      <NewPortMappingDescription>DemonwarePortMapping</NewPortMappingDescription>
+%*s<Not Supported>
+..\..\Vendor\LibTomCrypt\1.10\src\pk\ecc\ecc_export.c
+..\..\Vendor\LibTomCrypt\1.10\src\pk\ecc\ecc_import.c
+..\..\Vendor\LibTomCrypt\1.10\src\pk\rsa\rsa_export.c
+..\..\Vendor\LibTomCrypt\1.10\src\pk\rsa\rsa_import.c
+<NewExternalPort>%d</NewExternalPort>
+<UNSUPPORTED>
+<unsupported>
+@Camera2.DebugViewport
+A hardware only DirectDraw object creation was attempted but the driver did not support any hardware.
+About to connect() to %s%s port %d (#%d)
+ActivatePort
+AddPortMapping
+Address family not supported
+Amax.ExportEnumList
+AmaxViewportFovScale
+AmaxViewportScreenOffset
+An attempt was made to allocate non-local video memory from a device that does not support non-local video memory.
+An attempt was made to modify parameters of an effect while it is playing.  Not all hardware devices support altering the parameters of an effect while it is playing. & Two pins of the same direction cannot be connected together.
+BD_USE_SSL is defined but SSL support is not enabled in libcurl
+BIO_get_port
+Backing store not supported
+Bank format is an old unsupported version.
+Bank format is newer than the wavebank reader supports.
+Bind to local port %d failed, trying next
+Bitmask in the pixel format requested is unsupported by DirectDraw
+CERTSRV_E_UNSUPPORTED_CERT_TYPE
+COMADMIN_E_CAN_NOT_EXPORT_APP_PROXY
+COMADMIN_E_CAN_NOT_EXPORT_SYS_APP
+COMADMIN_E_CAT_IMPORTED_COMPONENTS_NOT_ALLOWED
+COMADMIN_E_CAT_PAUSE_RESUME_NOT_SUPPORTED
+COMADMIN_E_MIG_VERSIONNOTSUPPORTED
+CO_E_NOT_SUPPORTED
+Camera2.DebugTools.PositionLog.ExportAffectEffects
+Camera2.DebugTools.PositionLog.ExportMaya
+Camera2.GameViewport
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+Cannot only export initialized private key.
+Cannot play back the audio stream: the audio format is not supported.
+Cannot play back the file.  The format is not supported.
+Cannot play back the video stream: format 'RPZA' is not supported.
+Cannot play back the video stream: the video format is not supported.
+Chunky upload is not supported by HTTP 1.0
+Connected to %s (%s) port %d (#%d)
+Current pin connection is not using the IMemInputPin transport.
+Current pin connection is not using the IOverlay transport.
+D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED
+D2DERR_UNSUPPORTED_OPERATION
+D2DERR_UNSUPPORTED_PIXEL_FORMAT
+D2DERR_UNSUPPORTED_VERSION
+D3DERR_UNSUPPORTEDALPHAARG
+D3DERR_UNSUPPORTEDALPHAOPERATION
+D3DERR_UNSUPPORTEDCOLORARG
+D3DERR_UNSUPPORTEDCOLOROPERATION
+D3DERR_UNSUPPORTEDCRYPTO
+D3DERR_UNSUPPORTEDFACTORVALUE
+D3DERR_UNSUPPORTEDOVERLAY
+D3DERR_UNSUPPORTEDOVERLAYFORMAT
+D3DERR_UNSUPPORTEDTEXTUREFILTER
+D3DXERR_SKINNINGNOTSUPPORTED
+DDERR_NODIRECTDRAWSUPPORT
+DDERR_NODRIVERSUPPORT
+DDERR_UNSUPPORTEDFORMAT
+DDERR_UNSUPPORTEDMASK
+DDERR_UNSUPPORTEDMODE
+DIERR_REPORTFULL & VFW_E_NO_ALLOCATOR
+DSO support routines
+DXGI_ERROR_UNSUPPORTED
+DeActivatePort
+DeletePortMapping
+Device does not support optimized surfaces, therefore no video memory optimized surfaces
+DirectDraw does not support provided Cliplist.
+DirectDraw does not support the requested mode
+ERROR_ATOMIC_LOCKS_NOT_SUPPORTED
+ERROR_CLIPPING_NOT_SUPPORTED
+ERROR_CLUSTER_RESTYPE_NOT_SUPPORTED
+ERROR_CONTROLLING_IEPORT
+ERROR_DS_AUTH_METHOD_NOT_SUPPORTED
+ERROR_DS_DRA_NOT_SUPPORTED
+ERROR_DS_NOT_SUPPORTED
+ERROR_DS_NOT_SUPPORTED_SORT_ORDER
+ERROR_EAS_NOT_SUPPORTED
+ERROR_EFS_VERSION_NOT_SUPPORT
+ERROR_INSTALL_LANGUAGE_UNSUPPORTED
+ERROR_INSTALL_PLATFORM_UNSUPPORTED
+ERROR_INVALID_IMPORT_OF_NON_DLL
+ERROR_IPSEC_IKE_UNSUPPORTED_ID
+ERROR_IPSEC_TRANSPORT_FILTER_EXISTS
+ERROR_IPSEC_TRANSPORT_FILTER_NOT_FOUND
+ERROR_IPSEC_TRANSPORT_FILTER_PENDING_DELETION
+ERROR_METAFILE_NOT_SUPPORTED
+ERROR_NOT_EXPORT_FORMAT
+ERROR_NOT_SUPPORTED
+ERROR_NOT_SUPPORTED_ON_SBS
+ERROR_NOT_SUPPORTED_ON_STANDARD_SERVER
+ERROR_NO_SUPPORTING_DRIVES
+ERROR_PATCH_PACKAGE_UNSUPPORTED
+ERROR_PORT_UNREACHABLE
+ERROR_TRANSFORM_NOT_SUPPORTED
+ERROR_TRANSPORT_FULL
+ERROR_UNABLE_TO_INVENTORY_TRANSPORT
+ERROR_UNKNOWN_PORT
+ERROR_UNSUPPORTED_TYPE
+ERROR_VOLUME_NOT_SUPPORT_EFS
+EXPORT
+EXPORT40
+EXPORT56
+E_IF_PortalBlocker
+EdiPartyName:<unsupported>
+Empty JPEG image (DNL not supported)
+Entity name "%s;" not supported under parent <%s>!
+ExportName
+ExportToLua
+FOURCC_UNSUPPORTED
+FTP: command PORT failed
+Failed to find a free port
+Failed to map port.
+Failed to parse port query response.
+Failed to send port mapping request.
+Failed to send port query request.
+Failed to send port unmapping request.
+Failed to unmap port.
+Flask failed validation, unsupported version.
+Flipping visible surfaces is not supported.
+Frame step is not supported on this configuration.
+Game.CheckForSorceryDataExportsWhileRunning
+GetASPI32SupportInfo
+GetItemString( id ) - Gadget type not supported!
+GetNumViewports
+GetRivalIndex( viewportID ) - incorrect arguments
+GetSpecificPortMappingEntry
+GetViewportVelocities
+GetViewportVelocities( player_index ) - incorrect arguments
+Graphics.Portal.Debug.Blockers.ShowBlockers
+Graphics.Portal.Debug.Coder.MaxRecursionLevels
+Graphics.Portal.Debug.Coder.ShowGrid
+Graphics.Portal.Debug.Coder.ShowSpaces
+Graphics.Portal.Debug.Coder.SpaceIndex
+Graphics.Portal.Debug.Coder.TestBorderX
+Graphics.Portal.Debug.Coder.TestBorderY
+Graphics.Portal.Debug.Rays.ShowRays
+Graphics.Portal.Debug.ShiftDebugPortalRenderAlongNormal
+Graphics.Portal.Debug.Traversal.DebugRoomIndex
+Graphics.Portal.Debug.Traversal.DrawOnlyVisibleRooms
+Graphics.Portal.Debug.Traversal.HightlightRoom
+Graphics.Portal.Debug.Traversal.MinProjectedArea
+Graphics.Portal.Debug.Traversal.RenderPortalsAsSolidPolygons
+Graphics.Portal.Debug.Traversal.RenderRoomIndex
+Graphics.Portal.Debug.Traversal.RenderRoomsAsSolidPolygons
+Graphics.Portal.Debug.Traversal.RoomPolygonIndex
+Graphics.Portal.Debug.Traversal.SetWorldRoomBit
+Graphics.Portal.Debug.Traversal.ShowDebugRoomsNames
+Graphics.Portal.Debug.Traversal.ShowDebugViewPoly
+Graphics.Portal.Debug.Traversal.ShowPortals
+Graphics.Portal.Debug.Traversal.ShowRooms
+Graphics.Portal.UseDeferredTracer
+Graphics.SceneGraph.DisablePortalList
+Graphics.SceneGraph.PortalListUseJobQueue
+Graphics.SceneGraph.Static.UsePortals
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+Header size mismatch! Code thinks extra header size should be %d bytes but file thinks it should be %d bytes. Try re-exporting the bank.
+IDCT output block size %d not supported
+IdePort1
+Local port: %d
+MK_E_INTERMEDIATEINTERFACENOTSUPPORTED
+Maximum supported image dimension is %u pixels
+Multiplayer.ReportNetworkPickupAutopsyReports
+Multiplayer.ReportWhenNetworkDamageMessageIsActedUpon
+No DirectDraw support possible with current display driver
+No VideoPort hardware is available, or the hardware is not responding.
+No hardware support for 16 or 256 color palettes.
+No port mappings found. Creating one on port %u.
+OLE_E_ADVISENOTSUPPORTED
+OSS_INDEFINITE_NOT_SUPPORTED
+OSS_TYPE_NOT_SUPPORTED
+Operation could not be carried out because there is no hardware present which supports stereo surfaces
+Operation could not be carried out because there is no hardware support for stretching
+Operation could not be carried out because there is no hardware support for vertical blank synchronized operations.
+Operation could not be carried out because there is no hardware support for zbuffer blting.
+Operation could not be carried out because there is no hardware support of the dest color key.
+Operation not supported
+Overlay format is not supported
+Overlay is not supported
+Overlay surfaces could not be z layered based on their BltOrder because the hardware does not support z layering of overlays.
+PA_REQUEST_GET_SUPPORT_URL
+Pins cannot connect due to not supporting the same transport.
+Pixel format requested is unsupported by DirectDraw
+Please contact the application's support team for more information.
+Please re-export the bank.
+Port Collision Detected. UPnP device configuration complete
+Port Mapping collision found, owned by %s.
+Port number too large: %lu
+Port successfully mapped. UPnP device configuration complete
+Port unmapping successful on port %u
+PortalBits
+PortalCullNodeClassifyModule
+Portals
+Protocol %s not supported or disabled in libcurl
+Protocol family not supported
+Protocol is unsupported
+Protocol option is unsupported
+ProximityReportingDistanceSquared
+Querying UPnP device for existing mappings on port %u.
+RPC_S_CANNOT_SUPPORT
+RPC_S_INTERFACE_NOT_EXPORTED
+RPC_S_NOTHING_TO_EXPORT
+RPC_S_NOT_ALL_OBJS_EXPORTED
+RPC_S_NOT_ALL_OBJS_UNEXPORTED
+RPC_S_PROTSEQ_NOT_SUPPORTED
+RPC_S_UNSUPPORTED_AUTHN_LEVEL
+RPC_S_UNSUPPORTED_NAME_SYNTAX
+RPC_S_UNSUPPORTED_TRANS_SYN
+RPC_S_UNSUPPORTED_TYPE
+Received test 2 response from primary port
+ReportEventA
+ReportingParameters
+Requested audio format unsupported.
+Requested port %u, using port %u
+SCARD_E_CARD_UNSUPPORTED
+SCARD_E_READER_UNSUPPORTED
+SCARD_E_UNSUPPORTED_FEATURE
+SCARD_W_UNSUPPORTED_CARD
+SCHED_E_UNSUPPORTED_ACCOUNT_OPTION
+SEC_E_QOP_NOT_SUPPORTED
+SEC_E_STRONG_CRYPTO_NOT_SUPPORTED
+SEC_E_UNSUPPORTED_FUNCTION
+SEC_E_UNSUPPORTED_PREAUTH
+SOCKS5 GSSAPI per-message authentication is not supported.
+SSL Engine not supported
+Seeking not supported for this object.
+SetNumViewports
+SetNumViewports( S32 ) - incorrect arguments
+Skinning not supported
+Smoothing not supported with nonstandard sampling ratios
+Socket is unsupported
+Some of the streams in this movie are in an unsupported format.
+Starting download test: m_packetSize:%u m_numPackets:%u m_senderInitialWait:%u m_sendDuration:%u m_receiverInitialWait:%u m_receiveDuration:%u m_lingerDuration:%u m_lsgPort:%u m_lsgAddr:%u 
+Starting upload test: m_packetSize:%u m_numPackets:%u m_senderInitialWait:%u m_sendDuration:%u m_receiverInitialWait:%u m_receiveDuration:%u m_lingerDuration:%u m_lsgPort:%u m_lsgAddr:%u 
+Support is currently not available.
+Support_0
+Support_2
+Support_3
+Support_4
+The VideoPort connection negotiation process has failed.
+The application was written for an unsupported prerelease version of DirectInput.
+The display format we need to render is not supported by the hardware device.
+The display is currently in an unsupported mode
+The effect could not be downloaded because essential information is missing.  For example, no axes have been associated with the effect, or no type-specific information has been created. & One of the specified pins supports no media types.
+The function called is not supported at this time
+The pixel format is not supported.
+The requested D2D version is not supported.
+The requested functionality is not supported by the device or the driver.
+The requested opertion is not supported.
+The requested size is larger than the guaranteed supported texture size.
+The specified WAVE format is not supported
+The specified property ID is not supported for the specified property set.
+The specified property set is not supported.
+The video port is not active
+This object does not support aggregation
+TimeExported
+UI.Viewport.pos_x_scale
+UI.Viewport.pos_y_scale
+UI.Viewport.rotation_scale
+UI.Viewport.scale
+UI.Viewport.scale_clamp
+UPnP Mapping collision found. New port Selected: %d
+UPnP stopping after %u port collisions. 
+Unable to export public key. Error: %s
+Unable to import public key: %s.
+Unexpected port status
+Unsupported JPEG data precision %d
+Unsupported JPEG process: SOF type 0x%02x
+Unsupported alpha arg
+Unsupported alpha operation
+Unsupported color arg
+Unsupported color conversion request
+Unsupported color operation
+Unsupported cryptographic system
+Unsupported factor value
+Unsupported marker type 0x%02x
+Unsupported protocol
+Unsupported texture filter
+Unsupported.
+Usable Port Mapping found. UPnP device configuration complete.
+VFW_E_FRAME_STEP_UNSUPPORTED
+VFW_E_NO_TRANSPORT
+VFW_E_UNSUPPORTED_AUDIO
+VFW_E_UNSUPPORTED_STREAM
+VFW_E_UNSUPPORTED_VIDEO
+Vehicle.Damage.Debug.NumOfLastImportantEvents
+Vehicle.Damage.Debug.NumOfLastImportantPlanes
+Vehicle.Logic.RecentlyOvertakenReportTime
+Viewport
+ViewportId
+Viewports
+WBEMMOF_E_TYPEDEF_NOT_SUPPORTED
+WBEMMOF_E_UNSUPPORTED_CIMV22_DATA_TYPE
+WBEMMOF_E_UNSUPPORTED_CIMV22_QUAL_VALUE
+WBEM_E_FATAL_TRANSPORT_ERROR
+WBEM_E_NOT_SUPPORTED
+WBEM_E_TRANSPORT_FAILURE
+WBEM_E_UNSUPPORTED_CLASS_UPDATE
+WBEM_E_UNSUPPORTED_LOCALE
+WBEM_E_UNSUPPORTED_PARAMETER
+WBEM_E_UNSUPPORTED_PUT_EXTENSION
+WSAEAFNOSUPPORT
+WSAEPFNOSUPPORT
+WSAEPROTONOSUPPORT
+WSAESOCKTNOSUPPORT
+WSAVERNOTSUPPORTED
+Winsock version not supported
+X400Name:<unsupported>
+XACT_E_NOIMPORTOBJECT
+XACT_E_NOTSUPPORTED
+XAPO_E_FORMAT_UNSUPPORTED
+XENROLL_E_KEY_NOT_EXPORTABLE
+You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
+Your graphics card does not support Direct3D9. Press ok to exit the game.
+Your graphics card does not support Hardware Acceleration. Press ok to exit the game.
+Your graphics card does not support Pixel Shader Model 2.0. Press ok to exit the game.
+Your graphics card does not support Vertex Shader Model 2.0. Press ok to exit the game.
+Your graphics card does not support the minimum specs. Press ok to exit the game.
+bdECCKey::exportKey
+bdNetImpl::findFreePort
+extension setting not supported
+file type ENG for private key not supported
+file type P12 for certificate not supported
+file type P12 for private key not supported
+fips mode not supported
+functionality not supported
+gravity.import
+hardware does not support clipped overlays
+id-it-unsupportedOIDs
+mFourViewports
+mOneViewport
+mThreeViewports
+mTwoViewports
+mercury.Graphics.Portal
+mercury.physics.gravity.import
+missing export tmp dh key
+missing export tmp rsa key
+no accept port specified
+no port defined
+no port specified
+not a supported NIST prime
+not supported file type '%s' for certificate
+not supported file type for private key
+offset_proportional
+operation not supported on this type
+othername:<unsupported>
+peer error unsupported certificate type
+policy syntax not currently supported
+port
+rsa operations not supported
+sslv3 alert unsupported certificate
+streaming not supported
+tlsv1 alert export restriction
+tried to use unsupported cipher
+unsuported number of rounds
+unsupported algorithm
+unsupported any defined by type
+unsupported certificate purpose
+unsupported cipher
+unsupported cipher type
+unsupported compression algorithm
+unsupported content type
+unsupported elliptic curve
+unsupported encryption
+unsupported encryption algorithm
+unsupported field
+unsupported key derivation function
+unsupported key size
+unsupported keylength
+unsupported method
+unsupported option
+unsupported pkcs12 mode
+unsupported prf
+unsupported private key algorithm
+unsupported protocol
+unsupported public key type
+unsupported requestorname type
+unsupported salt type
+unsupported ssl version
+unsupported status type
+unsupported type
+viewport_index
