@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "x64dbg": {
+      "command": "/home/joseph/x64dbg-mcp/venv/bin/x64dbg-automate-mcp"
+    }
+  }
+}

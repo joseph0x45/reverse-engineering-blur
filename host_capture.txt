@@ -1,0 +1,90 @@
+No.     Time           Source                Destination           Protocol Length Info
+    336 8.094957600    192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 336: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+   2236 38.104080100   192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 2236: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+   5017 68.114795300   192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 5017: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+   8266 98.118558200   192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 8266: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+  11055 128.169187900  192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 11055: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+  13688 158.174747200  192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 13688: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
+
+No.     Time           Source                Destination           Protocol Length Info
+  16959 188.177462100  192.168.1.82          192.168.1.255         UDP      86     57621 → 57621 Len=44
+
+Frame 16959: Packet, 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface \Device\NPF_{16F80ECE-79AB-451C-A396-EF4D031990AF}, id 0
+Ethernet II, Src: MicroStarINT_3f:6f:e7 (04:7c:16:3f:6f:e7), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.1.82, Dst: 192.168.1.255
+User Datagram Protocol, Src Port: 57621, Dst Port: 57621
+Data (44 bytes)
+
+0000  53 70 6f 74 55 64 70 30 21 38 87 75 7e 45 f8 f2   SpotUdp0!8.u~E..
+0010  00 01 00 04 48 95 c2 03 66 5d 62 ff da 01 46 87   ....H...f]b...F.
+0020  3d 34 6e df 87 4f 61 f9 85 80 eb 01               =4n..Oa.....
